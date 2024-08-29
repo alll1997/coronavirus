@@ -1,7 +1,7 @@
 # Coronavirus
 Con el cambio en los hábitos debido al coronavirus, las startups crearon apps para amantes de los libros. Usarás una base de datos sobre libros, editoriales, autores y reseñas para desarrollar una propuesta de valor para un nuevo producto en este mercado emergente.
 
-
+ <img src="https://github.com/alll1997/coronavirus/blob/main/image.png" alt="python"/>
 
 ## Conclusiones
 - 819 se han publicado despues del 01 de Enero del 2000, aumentando un 78% de las publicaciones previas a la fecha 
